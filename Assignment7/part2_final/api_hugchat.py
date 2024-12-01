@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
     print(paragraphs)
 
-    sign = Login("bansalyash54321@gmail.com", "Yash88@bansal")
+    sign = Login("", "")
     cookies = sign.login()
 
     cookie_path_dir = "./cookies_snapshot"
